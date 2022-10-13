@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.179daac3.css",
-    "main.js": "/static/js/main.4f6af752.js",
+    "main.js": "/static/js/main.a3347fee.js",
     "static/media/Arun_Singh_Resume.pdf": "/static/media/Arun_Singh_Resume.fac3024e04fa20691745.pdf",
     "static/media/45-degree-fabric-light.png": "/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
     "static/media/netmeds.jpeg": "/static/media/netmeds.990eb09c9dc601fb00f8.jpeg",
@@ -10,10 +10,10 @@
     "static/media/Arun_Singh_Image.jpeg": "/static/media/Arun_Singh_Image.cfba0382d4ec5e79dc29.jpeg",
     "index.html": "/index.html",
     "main.179daac3.css.map": "/static/css/main.179daac3.css.map",
-    "main.4f6af752.js.map": "/static/js/main.4f6af752.js.map"
+    "main.a3347fee.js.map": "/static/js/main.a3347fee.js.map"
   },
   "entrypoints": [
     "static/css/main.179daac3.css",
-    "static/js/main.4f6af752.js"
+    "static/js/main.a3347fee.js"
   ]
 }
