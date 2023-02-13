@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.179daac3.css",
-    "main.js": "/static/js/main.a3347fee.js",
-    "static/media/Arun_Singh_Resume.pdf": "/static/media/Arun_Singh_Resume.fac3024e04fa20691745.pdf",
+    "main.css": "/static/css/main.899902d1.css",
+    "main.js": "/static/js/main.894d8942.js",
+    "static/media/jcrewimage.jpeg": "/static/media/jcrewimage.dede0bba7569b126c317.jpeg",
+    "static/media/weatherappimage.png": "/static/media/weatherappimage.3831dbfb888f072e1678.png",
+    "static/media/Arun_Singh_Resume.pdf": "/static/media/Arun_Singh_Resume.d994b970fc3ee898c42c.pdf",
     "static/media/45-degree-fabric-light.png": "/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
     "static/media/netmeds.jpeg": "/static/media/netmeds.990eb09c9dc601fb00f8.jpeg",
     "static/media/himalay.jpeg": "/static/media/himalay.2132a908f95505a13b06.jpeg",
     "static/media/tripvillas.jpeg": "/static/media/tripvillas.9894804bdc854512ed6b.jpeg",
-    "static/media/Arun_Singh_Image.jpeg": "/static/media/Arun_Singh_Image.cfba0382d4ec5e79dc29.jpeg",
+    "static/media/Arun_Singh_Image.jpeg": "/static/media/Arun_Singh_Image.6ddb71222b3e2273f8a5.jpeg",
     "index.html": "/index.html",
-    "main.179daac3.css.map": "/static/css/main.179daac3.css.map",
-    "main.a3347fee.js.map": "/static/js/main.a3347fee.js.map"
+    "main.899902d1.css.map": "/static/css/main.899902d1.css.map",
+    "main.894d8942.js.map": "/static/js/main.894d8942.js.map"
   },
   "entrypoints": [
-    "static/css/main.179daac3.css",
-    "static/js/main.a3347fee.js"
+    "static/css/main.899902d1.css",
+    "static/js/main.894d8942.js"
   ]
 }
